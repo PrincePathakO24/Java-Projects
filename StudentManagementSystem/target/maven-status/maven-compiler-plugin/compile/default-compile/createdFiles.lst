@@ -1,0 +1,10 @@
+com\springbootorm\ProjectspringbootamitavasirApplication.class
+com\springbootorm\serviceimpl\StudentServiceImpl.class
+com\springbootorm\config\OneOfIntegersValidator.class
+com\springbootorm\exception\CustomGlobalExceptionHandler.class
+com\springbootorm\controller\StudentController.class
+com\springbootorm\service\StudentService.class
+com\springbootorm\repository\StudentRepository.class
+com\springbootorm\config\OneOfIntegers.class
+com\springbootorm\entity\Student.class
+com\springbootorm\entity\Student$StudentBuilder.class
